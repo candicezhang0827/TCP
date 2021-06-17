@@ -1,4 +1,4 @@
-// project headers
+
 #include "client.h"
 #include "utils.h"
 // C++ headers
